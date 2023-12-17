@@ -1,7 +1,3 @@
-ifgjrgig
-rgigrhigri
-g
-rgirgh
-rg
-grghigr
+for(;;) {
 System.out.println("re");
+}
